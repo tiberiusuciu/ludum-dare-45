@@ -1,0 +1,1 @@
+spawner_id = 1
